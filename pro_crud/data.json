@@ -1,0 +1,18 @@
+{
+    "motor": [
+        {
+            "nama": "rx king",
+            "harga": "14000000"
+        },
+        {
+            "nama": "supra x ",
+            "harga": "7000000"
+        }
+    ],
+    "mobil": [
+        {
+            "nama": "avanza",
+            "harga": "190000000"
+        }
+    ]
+}
